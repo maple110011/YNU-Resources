@@ -7,7 +7,7 @@
 - Beamer Theme：感谢电子信息学院的前辈上传至Overleaf的Beamer模板
 - CV Theme：由我在NPU-CV Theme的基础上修改而来，横排校徽取自[云南大学网站](https://www.ynu.edu.cn/)，圆形校徽从[该网站](https://www.urongda.com/)下载，调整了主题色为RGB(0,108,70)，增加了修读课程栏
 - 学位论文规范
-    - 本科毕业论文（设计）规范：从本科生院网站下载，此外也感谢[物天学院的前辈](https://github.com/Astro-Lee)制作的LaTeX模板
+    - 本科毕业论文（设计）规范：从本科生院网站下载(该网站目前已关闭，毕设工作转至CNKI的毕设系统进行)，此外也感谢[物天学院的前辈](https://github.com/Astro-Lee)制作的LaTeX模板。
     - 研究生学位论文规范：从[研究生院网站](http://www.grs.ynu.edu.cn/info/1037/1540.htm)下载，同样感谢[物天学院的前辈](https://github.com/Astro-Lee)制作的LaTeX模板
 - 学生手册
     - 本科生学生手册(2020)
@@ -21,3 +21,6 @@
     - 金融学培养方案
     - 财政学培养方案
     - 国际经济与贸易培养方案
+- 课程教材
+    - 公共课选用教材情况
+    - 数统学院专业课教材选用情况(2023)
