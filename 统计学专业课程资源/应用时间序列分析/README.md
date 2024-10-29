@@ -15,8 +15,8 @@
 - 会用到的R package：
     - [forecast::auto.arima](https://rdrr.io/cran/forecast/man/auto.arima.html)自动识别ARIMA阶数
     - [tsoutliers::tso](https://rdrr.io/cran/tsoutliers/man/tso.html)自动识别异常点
-    - [uroot::hegy.test](https://rdrr.io/cran/pdR/man/HEGY.test.html)HEGY检验
-    - ADF检验
+    - [uroot::hegy.test](https://rdrr.io/cran/pdR/man/HEGY.test.html)实现HEGY检验
+    - [urca::ur.df](https://rdrr.io/cran/urca/man/ur.df.html)和[fUnitRoots::adfTest](https://rdrr.io/rforge/fUnitRoots/man/UnitrootTests.html)实现ADF检验
 - 季节单位根有其特殊性，普通的ADF检验遇到季节单位根时结果不稳健，需要使用HEGY检验，详情可参考[Analysis of Integrated and Cointegrated Time Series with R (Bernhard Pfaff)](https://book.douban.com/subject/4079399/)的6.2节
 
 ##
