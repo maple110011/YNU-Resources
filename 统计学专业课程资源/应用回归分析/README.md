@@ -1,6 +1,7 @@
-## 相关资料
+## 课程信息
 
 - 教材为[应用回归分析(唐年胜,李会琼)](https://book.douban.com/subject/26681406/)
+- 期中考均在实验课进行，雨课堂作答
 - 所有资源均可从[百度网盘](https://pan.baidu.com/s/1zudOYrtInDurYcOO-5qT0g)下载，提取码为jhrs
 
 ## 学习参考
