@@ -11,3 +11,4 @@
     - [截断正态分布(Ttruncated normal distribution)](https://en.wikipedia.org/wiki/Truncated_normal_distribution)
     - [逆概率加权(Inverse probability weighting)](https://en.wikipedia.org/wiki/Inverse_probability_weighting)
 - 倾向值匹配法的更多细节可参考[倾向值匹配法的概述与应用 从统计关联到因果推论(苏毓淞)](https://book.douban.com/subject/27192905/)
+- 因果推断方向目前的一个前沿趋势是应用机器学习方法，参阅教材[Applied Causal Inference Powered by ML and AI(V. Chernozhukov, C. Hansen, N. Kallus, M. Spindler, V. Syrgkanis)](https://causalml-book.org/)
